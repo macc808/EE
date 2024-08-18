@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+    background-color: yellow;
+}
+
+header p {
+    font-size: 40px;
+}
+
+.corsehtml{
+    background-color: white;
+    width: 250px;
+    height: 410px;
+}
+
+.coursehtml p,a{
+    font-size: 20px;
+}
+
+.age{
+    font-size: 20px;
+    color: #FF2525;
+}
+
+.htmla{
+    text-decoration: none;
+    padding: 10px;
+    background-color: rgb(0, 191, 255);
+    border-radius: 20px;
+    color: black;
+}
+
+.corsePythonS img{
+    width: 200px;
+    height: 200px;
+}
+
+.corsePythonS{
+    background-color: white;
+    width: 250px;
+    height: 410px;
+}
+
+.corsePythonP img{
+    width: 200px;
+    height: 200px;
+}
+
+.corsePythonP{
+    background-color: white;
+    width: 250px;
+    height: 410px;
+}
+
+.all{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer p{
+    background-color: white;
+    font-size: 17px;
+}
+
+footer{
+    background-color: #5FC5FF;
+}
+
+footer img{
+    width: 50px;
+}
