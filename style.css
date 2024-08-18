@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+}
+
+.logo{
+    width: 190px;
+    height: 140px;
+}
+
+.logodiv{
+    text-align: center;
+}
+
+header{
+    background: linear-gradient(to right, #FFF500, #25FFCB);
+}
+
+header p {
+    width: 220px;
+    font-size: 20px;
+}
+
+.Headerdiv p{
+    margin-left: 5px;
+}
+
+main{
+    background-image: url('https://cdn.meta.ua/meta_news/0c/01003c93-0c8e_1280x720.jpeg');
+    border-radius: 280px;
+    height: 500px;
+    margin-top: 40px; 
+}
+
+nav{
+    color: white;
+}
+
+nav a{
+    font-size: 20px;
+    text-align: center;    
+}
+
+.Headerdiv{
+    display: flex;
+
+}
+.navv details b{
+    color: #707070;
+}
+.navv{
+    display: flex;
+    justify-content: center;
+}
+
+.navv a{
+    text-align: center;
+    margin-right: 60px;
+    background-color: rgba(70, 70, 227, 0.701);
+    border-radius: 20px;
+    padding: 10px;
+}
